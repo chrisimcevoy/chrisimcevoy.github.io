@@ -5,3 +5,6 @@ theme: minima
 show_excerpts: true
 twitter_username: chrisimcevoy
 github_username: chrisimcevoy
+
+include:
+    - _pages
