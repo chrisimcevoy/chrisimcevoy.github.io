@@ -1,1 +1,5 @@
 theme: minima
+
+# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+title: Chris McEvoy's Blog
+url: https://www.chrismcevoy.net
