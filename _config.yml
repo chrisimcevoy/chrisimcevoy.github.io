@@ -1,6 +1,11 @@
 website: https://www.chrismcevoy.net
-theme: minima
 
+theme: minima
+social:
+  name: Chris McEvoy
+  links:
+    - https://twitter.com/chrisimcevoy
+    - https://github.com/chrisimcevoy
 
 # https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 title: Chris McEvoy's Blog
