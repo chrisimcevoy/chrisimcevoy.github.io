@@ -1,11 +1,11 @@
 website: https://www.chrismcevoy.net
 
 theme: minima
-social:
-  name: Chris McEvoy
-  links:
-    - https://twitter.com/chrisimcevoy
-    - https://github.com/chrisimcevoy
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/chrisimcevoy" }
+    - { platform: twitter, user_url: "https://twitter.com/chrisimcevoy" }
 
 # https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 title: Chris McEvoy's Blog
